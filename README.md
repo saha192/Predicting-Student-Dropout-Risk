@@ -37,6 +37,14 @@ The dataset contains information on **200 students** including demographics, eng
 - **Dropout Rates by Category:**
   - **Course Type:** Python courses had higher dropout rates compared to UI/UX and Digital Marketing.
   - **Gender:** Female students showed higher dropout rates.
+<p align="center">
+  <img src="https://github.com/saha192/Predicting-Student-Dropout-Risk/blob/db98b52cadd15b207b04f099c9756e6e9494ee31/EDA2.png?raw=true" alt="EDA 2" width="45%" style="margin-right: 10px;"/>
+  <img src="https://github.com/saha192/Predicting-Student-Dropout-Risk/blob/db98b52cadd15b207b04f099c9756e6e9494ee31/EDA3.png?raw=true" alt="EDA 3" width="45%"/>
+  <br>
+  <em>Figure: Dropout Across Categories</em>
+</p>
+
+
 
 - **Engagement Trends:**
   - Students who dropped out had:
