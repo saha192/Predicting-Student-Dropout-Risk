@@ -50,6 +50,12 @@ The dataset contains information on **200 students** including demographics, eng
   - Students who dropped out had:
     - Fewer sessions attended (`session_count`)
     - Shorter average session durations (`avg_session_duration`)
+<p align="center">
+  <img src="https://github.com/saha192/Predicting-Student-Dropout-Risk/blob/1637de4ac48f2d5f4cacdf63998c953bd0d5869e/EDA4.png?raw=true" alt="EDA 4" width="45%" style="margin-right: 10px;"/>
+  <img src="https://github.com/saha192/Predicting-Student-Dropout-Risk/blob/1637de4ac48f2d5f4cacdf63998c953bd0d5869e/EDA5.png?raw=true" alt="EDA 5" width="45%"/>
+  <br>
+  <em>Figure: Boxplots highlighting low session counts + low satisfaction = high dropout trend</em>
+</p>
 
 ---
 
