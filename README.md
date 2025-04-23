@@ -28,6 +28,11 @@ The dataset contains information on **200 students** including demographics, eng
 
 - **Correlations:**
   - `session_count` and `satisfaction_rating` show moderate correlation with `dropout`.
+<p align="center">
+  <img src="https://github.com/saha192/Predicting-Student-Dropout-Risk/blob/ef4935427b38a15fd59da8380dd4b7628e354904/EDA1.png?raw=true" alt="EDA Visualization" width="600"/>
+  <br>
+  <em>Figure: Feature Correlation with Dropout</em>
+</p>
 
 - **Dropout Rates by Category:**
   - **Course Type:** Python courses had higher dropout rates compared to UI/UX and Digital Marketing.
