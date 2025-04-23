@@ -1,5 +1,5 @@
 # Predicting-Student-Dropout-Risk
-Problem Statement: An e-learning platform is offering digital courses to students. Some students actively participate and complete their learning journeys, while others drop out midway. You are tasked with building a machine learning model to predict student dropout risk, so we can proactively engage at-risk learners.
+**Problem Statement:** An e-learning platform is offering digital courses to students. Some students actively participate and complete their learning journeys, while others drop out midway. You are tasked with building a machine learning model to predict student dropout risk, so we can proactively engage at-risk learners.
 ## 📊 Dataset Description
 
 The dataset `learning_data.csv` contains information about students enrolled in various online courses. It is structured as follows:
