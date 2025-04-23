@@ -1,0 +1,201 @@
+student_id,age,gender,course_type,session_count,avg_session_duration,quiz_attempts,assignments_submitted,satisfaction_rating,dropout
+S0001,24,Male,UI/UX,11,108.13,7,5,5,0
+S0002,37,Male,Python,9,59.51,3,1,1,1
+S0003,32,Male,UI/UX,15,81.77,3,3,1,1
+S0004,28,Female,Digital Marketing,7,24.82,4,4,1,1
+S0005,25,Female,Digital Marketing,5,27.11,7,1,4,1
+S0006,38,Other,Digital Marketing,11,9.7,4,5,4,0
+S0007,24,Male,UI/UX,23,24.43,7,4,3,0
+S0008,36,Female,UI/UX,27,37.04,9,2,2,1
+S0009,28,Female,Digital Marketing,20,25.36,0,0,5,0
+S0010,28,Male,UI/UX,7,15.2,9,5,5,1
+S0011,38,Female,Digital Marketing,25,18.87,8,2,5,0
+S0012,21,Female,Digital Marketing,27,57.99,5,1,3,0
+S0013,25,Female,Python,3,28.73,2,3,4,0
+S0014,20,Male,UI/UX,25,46.89,7,4,3,0
+S0015,39,Male,Digital Marketing,7,62.89,8,0,5,1
+S0016,38,Female,Digital Marketing,25,84.4,5,4,2,1
+S0017,19,Female,UI/UX,27,9.52,6,1,1,1
+S0018,29,Male,Python,17,96.93,0,4,4,0
+S0019,23,Male,Python,27,77.21,4,0,4,0
+S0020,19,Other,Digital Marketing,27,14.4,4,1,3,0
+S0021,38,Male,UI/UX,4,105.46,9,4,4,1
+S0022,18,Female,Python,8,110.9,3,3,5,1
+S0023,29,Female,UI/UX,3,12.02,5,5,5,1
+S0024,39,Female,UI/UX,26,36.84,6,1,3,0
+S0025,29,Female,Digital Marketing,21,97.71,8,5,5,0
+S0026,34,Male,Python,16,91.05,0,1,2,1
+S0027,27,Female,Digital Marketing,8,26.22,5,3,3,1
+S0028,33,Female,Python,0,29.08,6,5,2,1
+S0029,32,Male,Python,20,47.6,2,2,1,1
+S0030,32,Male,Python,19,60.72,7,0,2,1
+S0031,36,Other,Python,12,76.1,4,2,1,0
+S0032,29,Female,Python,27,47.43,8,4,1,1
+S0033,37,Male,UI/UX,15,58.19,4,3,2,0
+S0034,20,Other,Digital Marketing,28,90.96,8,2,3,0
+S0035,22,Other,UI/UX,12,9.22,9,1,5,0
+S0036,36,Female,Python,13,34.03,3,4,5,0
+S0037,24,Female,Digital Marketing,2,87.04,8,4,1,1
+S0038,38,Male,Python,28,107.95,4,2,1,1
+S0039,26,Male,Digital Marketing,5,63.84,9,2,3,1
+S0040,24,Female,UI/UX,17,66.19,8,3,4,0
+S0041,35,Female,Digital Marketing,18,17.32,2,0,2,0
+S0042,21,Female,Digital Marketing,4,56.45,3,2,1,1
+S0043,31,Male,Digital Marketing,14,66.25,8,2,5,0
+S0044,35,Female,Digital Marketing,24,32.88,9,5,3,0
+S0045,26,Female,Digital Marketing,1,35.96,5,1,2,1
+S0046,38,Other,Python,9,48.39,1,5,3,1
+S0047,19,Female,Digital Marketing,23,7.31,6,5,2,0
+S0048,37,Female,Digital Marketing,29,42.04,1,4,2,1
+S0049,32,Female,UI/UX,17,29.32,1,0,1,0
+S0050,24,Male,Digital Marketing,26,42.66,0,1,3,0
+S0051,29,Other,UI/UX,12,18.77,2,3,3,0
+S0052,25,Other,Python,4,107.41,5,3,5,1
+S0053,32,Male,Digital Marketing,22,73.26,7,2,5,0
+S0054,20,Male,UI/UX,23,83.1,8,2,1,1
+S0055,31,Female,UI/UX,0,95.75,6,3,1,0
+S0056,34,Male,Python,21,62.32,3,2,4,0
+S0057,21,Other,Digital Marketing,0,15,5,0,5,1
+S0058,35,Male,Digital Marketing,17,66.77,4,5,2,1
+S0059,25,Male,UI/UX,14,72.49,7,2,3,0
+S0060,21,Female,Digital Marketing,16,90.73,0,4,1,0
+S0061,19,Male,UI/UX,10,54.64,0,2,3,0
+S0062,23,Male,Digital Marketing,20,19.67,5,1,3,0
+S0063,39,Female,UI/UX,25,37.63,9,0,4,0
+S0064,27,Female,Digital Marketing,24,46.75,1,1,5,0
+S0065,21,Male,Python,21,79.28,4,1,1,1
+S0066,39,Female,Digital Marketing,26,70.64,0,4,3,0
+S0067,35,Female,Digital Marketing,26,45.95,6,0,1,0
+S0068,29,Female,Python,16,118.45,0,0,2,1
+S0069,19,Male,Digital Marketing,12,74.66,3,0,4,0
+S0070,27,Female,Python,0,32.28,8,0,2,1
+S0071,21,Other,Digital Marketing,1,16.7,0,0,1,1
+S0072,31,Female,UI/UX,8,22.58,3,4,1,1
+S0073,33,Other,UI/UX,2,33.29,5,2,5,1
+S0074,32,Male,Digital Marketing,0,23.48,5,1,3,1
+S0075,25,Male,Digital Marketing,20,26.46,7,0,3,0
+S0076,31,Female,Digital Marketing,15,37.79,0,2,2,1
+S0077,25,Female,UI/UX,22,24.94,6,2,4,0
+S0078,38,Female,Digital Marketing,5,108.13,0,1,3,1
+S0079,33,Male,UI/UX,27,14.23,6,4,5,0
+S0080,30,Female,Python,16,65.32,2,3,2,1
+S0081,35,Female,UI/UX,4,52.2,7,3,2,1
+S0082,32,Female,UI/UX,4,117.97,2,2,5,1
+S0083,38,Male,Python,5,17.88,0,5,4,1
+S0084,30,Other,UI/UX,2,50.75,7,5,5,1
+S0085,26,Female,Digital Marketing,20,116.49,2,1,4,0
+S0086,32,Male,Digital Marketing,22,104.53,1,3,5,0
+S0087,30,Female,UI/UX,4,98.96,0,2,5,1
+S0088,18,Female,Digital Marketing,20,34.66,2,4,1,0
+S0089,24,Other,UI/UX,4,24.65,1,3,2,1
+S0090,26,Male,Digital Marketing,9,81.89,1,2,5,1
+S0091,18,Female,Digital Marketing,9,111.88,5,2,5,1
+S0092,29,Female,UI/UX,18,69.03,0,0,3,0
+S0093,25,Other,Digital Marketing,16,70.74,1,4,2,1
+S0094,28,Male,UI/UX,20,37.2,5,0,3,0
+S0095,36,Male,Digital Marketing,13,93.49,2,1,2,1
+S0096,34,Male,Digital Marketing,8,26.51,3,0,3,1
+S0097,25,Male,Python,13,42.22,0,0,5,0
+S0098,20,Female,Python,0,53.93,7,3,5,0
+S0099,20,Male,UI/UX,18,63.38,6,5,1,1
+S0100,18,Male,Python,12,32.88,6,2,3,0
+S0101,22,Female,UI/UX,12,18.21,2,4,4,0
+S0102,27,Other,Python,3,75.22,9,0,1,1
+S0103,24,Male,Digital Marketing,29,38.19,9,4,3,0
+S0104,26,Male,UI/UX,0,71.84,2,5,3,1
+S0105,24,Female,UI/UX,16,22.75,1,5,1,0
+S0106,26,Male,Digital Marketing,7,60.33,0,0,5,1
+S0107,25,Male,UI/UX,1,66.25,6,1,3,1
+S0108,29,Male,UI/UX,27,10.96,6,0,5,0
+S0109,19,Male,Python,7,43.71,1,3,1,1
+S0110,18,Female,UI/UX,6,20.46,6,2,5,1
+S0111,33,Male,Digital Marketing,25,12.29,7,1,2,1
+S0112,22,Female,Python,25,118.85,0,0,4,0
+S0113,20,Female,Python,1,42.07,8,4,3,1
+S0114,29,Male,Digital Marketing,21,98.14,6,1,4,0
+S0115,25,Male,Digital Marketing,21,34.28,2,1,5,0
+S0116,39,Male,Python,2,83.37,7,0,3,0
+S0117,20,Female,UI/UX,26,92.43,6,1,5,0
+S0118,18,Male,Python,17,73.5,7,4,2,0
+S0119,20,Male,Digital Marketing,11,59.23,5,5,1,1
+S0120,22,Female,Python,0,52.36,8,1,3,1
+S0121,32,Male,Digital Marketing,21,45.12,4,5,2,1
+S0122,31,Male,Python,11,111.9,2,4,2,0
+S0123,20,Male,UI/UX,4,100.52,2,0,3,1
+S0124,18,Male,Python,29,115.98,0,2,5,0
+S0125,22,Female,Python,29,19.29,7,1,2,1
+S0126,31,Male,Digital Marketing,26,89.05,1,2,4,0
+S0127,24,Female,Digital Marketing,24,112.91,2,4,2,1
+S0128,26,Male,Digital Marketing,16,25.84,7,1,5,0
+S0129,32,Female,Python,15,12.65,7,5,5,0
+S0130,32,Male,UI/UX,14,90.23,3,3,4,0
+S0131,27,Male,Digital Marketing,22,71.06,3,2,2,1
+S0132,30,Other,Digital Marketing,14,101.81,4,1,5,0
+S0133,36,Female,Python,4,21.07,5,2,3,1
+S0134,24,Female,Digital Marketing,20,96.46,4,1,1,1
+S0135,34,Male,UI/UX,13,28.19,6,0,1,0
+S0136,37,Male,UI/UX,1,23.82,1,5,1,1
+S0137,21,Male,Digital Marketing,10,23.89,6,2,2,1
+S0138,22,Female,Digital Marketing,18,98.68,9,3,4,0
+S0139,24,Male,Python,6,81.5,6,3,5,0
+S0140,30,Female,UI/UX,5,65.15,0,4,3,1
+S0141,32,Male,UI/UX,27,46.27,6,1,3,0
+S0142,28,Other,Digital Marketing,1,105.88,4,2,2,1
+S0143,21,Female,Python,5,50.13,2,4,1,1
+S0144,30,Female,UI/UX,17,98.91,2,2,2,1
+S0145,24,Male,UI/UX,1,55.5,3,1,4,1
+S0146,36,Male,Python,17,48.35,1,3,4,0
+S0147,39,Female,Python,29,58.21,1,0,5,0
+S0148,19,Male,UI/UX,14,39.66,0,3,5,0
+S0149,27,Male,UI/UX,26,90.98,4,4,4,0
+S0150,30,Other,Python,18,62.81,3,5,4,0
+S0151,38,Female,UI/UX,1,31.7,9,0,4,1
+S0152,23,Male,Digital Marketing,19,108.45,1,4,2,1
+S0153,29,Male,Digital Marketing,24,49.15,2,1,4,0
+S0154,29,Male,Python,5,67.51,6,0,3,1
+S0155,37,Female,Python,0,109.24,6,4,1,1
+S0156,28,Male,Python,23,76.79,3,1,4,0
+S0157,24,Male,Digital Marketing,14,18.44,4,3,1,0
+S0158,18,Male,UI/UX,27,113.08,4,5,2,1
+S0159,18,Male,Digital Marketing,29,77.19,5,1,1,0
+S0160,37,Female,UI/UX,22,43.51,8,2,2,0
+S0161,30,Male,Digital Marketing,9,21.02,1,1,3,1
+S0162,26,Other,UI/UX,18,96.31,4,1,2,1
+S0163,20,Male,Digital Marketing,16,76.31,2,5,2,1
+S0164,24,Male,Python,4,66.35,3,2,5,1
+S0165,23,Male,Digital Marketing,28,107.8,9,4,4,0
+S0166,25,Male,UI/UX,3,95.69,5,4,4,1
+S0167,26,Other,Digital Marketing,9,22.44,7,1,3,1
+S0168,22,Female,Digital Marketing,23,40.85,0,2,3,0
+S0169,18,Female,Digital Marketing,16,33.58,9,2,4,0
+S0170,36,Female,Python,9,90.55,7,5,5,1
+S0171,27,Male,Digital Marketing,16,8.86,6,3,4,0
+S0172,29,Female,Python,27,70.54,0,4,5,0
+S0173,32,Male,Python,19,92.68,1,5,3,0
+S0174,39,Female,Digital Marketing,23,105.83,2,0,1,1
+S0175,26,Male,Digital Marketing,4,44.34,0,4,3,1
+S0176,37,Male,Digital Marketing,1,99.44,8,5,3,0
+S0177,34,Male,UI/UX,5,17.72,7,4,2,0
+S0178,34,Male,Digital Marketing,20,102.34,1,3,2,1
+S0179,37,Male,Python,1,19.66,8,0,2,1
+S0180,29,Male,Digital Marketing,12,50.69,6,3,2,1
+S0181,24,Other,UI/UX,29,96.69,8,0,5,0
+S0182,19,Male,Digital Marketing,10,22.24,5,1,4,0
+S0183,20,Male,UI/UX,10,31.36,5,5,1,0
+S0184,34,Female,UI/UX,15,88.06,3,0,3,0
+S0185,22,Female,Digital Marketing,10,87.8,9,3,5,0
+S0186,34,Male,Python,18,78.73,9,4,1,0
+S0187,34,Female,UI/UX,14,84.8,1,0,5,0
+S0188,34,Female,Digital Marketing,24,67.41,6,5,5,0
+S0189,19,Male,Digital Marketing,22,33.96,4,0,3,0
+S0190,19,Other,Python,22,44.76,5,2,4,0
+S0191,39,Female,UI/UX,15,25.88,1,4,2,1
+S0192,22,Male,UI/UX,10,109.47,4,5,4,0
+S0193,18,Male,Digital Marketing,21,72.09,9,5,3,0
+S0194,18,Other,Digital Marketing,15,51.1,3,1,3,0
+S0195,36,Female,Python,7,58.13,8,3,3,1
+S0196,19,Female,Python,3,113.94,5,1,1,1
+S0197,38,Female,UI/UX,7,22.64,1,5,4,1
+S0198,29,Female,UI/UX,3,72.42,0,4,4,1
+S0199,23,Other,Digital Marketing,23,63.18,4,0,5,0
+S0200,21,Other,UI/UX,24,75.32,8,0,5,0
